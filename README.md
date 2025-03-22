@@ -1,5 +1,5 @@
 # Daniel J. Beckman  
-**AI/ML Engineer | Platform Developer (in training) | Creative Technologist**  
+**AI/ML Engineer | Platform Developer | Creative Technologist**  
 Denver, CO · [GitHub](https://github.com/DanielJBeckman) · `your.email@example.com`
 
 ---
